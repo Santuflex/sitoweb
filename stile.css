@@ -1,0 +1,30 @@
+			body {
+				margin: 0;
+			}
+			header {
+				background-color: #d5def5;
+				padding: 20px;
+			}
+			h1 {
+				text-align: center;
+				color: #6643b5;
+			}
+			a {
+				color: #6643b5;
+				text-decoration: none;
+				margin-right: 20px;
+			}
+			main {
+				text-align: center;
+				background-color: #8594e4;
+				padding: 80px;
+				min-height: 400px;
+				color:#d5def5 ;
+			}
+			footer {
+				background-color: #d5def5;
+				text-align: center;
+				font-size: 14px;
+				padding: 10px;
+				color:#6643b5 ;
+			}
